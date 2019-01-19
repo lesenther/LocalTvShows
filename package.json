@@ -1,0 +1,15 @@
+{
+  "name": "localtvshows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.test.js",
+    "start": "node index.js"
+  },
+  "author": "Logan Esenther (logan@cal.berkeley.edu)",
+  "license": "ISC",
+  "dependencies": {
+    "node-tvdb": "^4.1.0"
+  }
+}
